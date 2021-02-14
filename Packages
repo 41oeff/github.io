@@ -1,0 +1,19 @@
+Package: com.lg.tsum
+Architecture: iphoneos-arm
+Version: 1.90.3
+Section: Tweaks
+Maintainer: System Administrator
+Installed-Size: 428
+Depends: mobilesubstrate
+Filename: ./debs/com.lg.tsum_1.90.3_iphoneos-arm.deb
+Size: 203260
+MD5sum: ccd798bd4179b71b43355ff88687a2a2
+SHA1: caf4818de21ad053b1758a9473b942f55768bbc9
+SHA256: 0cfd51c4d174c2e59d157737d688ba8877fee6ad792254c35f8e8a0fe6b5f9e5
+SHA512: e01a3bf989c4cbe8f41208f3161352d4151be0e7df3e4e67543576ea877fa9cbb645819bd5768a8d1dca8f2257c5c4e1de375e42fbdb42775da8c573bebebbee
+Homepage:
+Description:
+Name: TsumTsum
+Author: System Administrator
+Depiction: https://ios41oe.github.io/41oe/index.html
+
