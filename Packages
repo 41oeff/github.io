@@ -1,3 +1,20 @@
+Package: com.al.iosaloe
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: A<xxxxxx@iosaloe.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/Linelog.deb
+Size: 5836
+MD5sum: 97861f84696c34b88858d5e97bcb30af
+SHA1: 698695b62a37dc675b8c3d0717d1ff964d2b55e3
+SHA256: bc99c53afbd2f3167aaf9cf1273379a8af8f0eeb7ba5d567c40f1f0f4559df9a
+SHA512: ad8e70d89673ba75ff6cfa0c150c42900487d9d0ad7ae5c2e2c2f184a512ca4f16aab161a93a230ac95b625fdba3856e4ec4056670fe4f3a1b7c5bbe213a6758
+Description:
+Name: iosaloe
+Author:
+
 Package: com.lg.tsum
 Architecture: iphoneos-arm
 Version: 1.90.3
