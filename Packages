@@ -1,18 +1,18 @@
-Package: com.al.iosaloe
+Package: com.lg.tsum1
 Architecture: iphoneos-arm
-Version: 0.0.1-1+debug
+Version: 0.1
 Section: Tweaks
-Maintainer: A<xxxxxx@iosaloe.com>
+Maintainer:
 Installed-Size: 104
 Depends: mobilesubstrate
-Filename: ./debs/Linelog.deb
-Size: 5836
-MD5sum: 97861f84696c34b88858d5e97bcb30af
-SHA1: 698695b62a37dc675b8c3d0717d1ff964d2b55e3
-SHA256: bc99c53afbd2f3167aaf9cf1273379a8af8f0eeb7ba5d567c40f1f0f4559df9a
-SHA512: ad8e70d89673ba75ff6cfa0c150c42900487d9d0ad7ae5c2e2c2f184a512ca4f16aab161a93a230ac95b625fdba3856e4ec4056670fe4f3a1b7c5bbe213a6758
+Filename: ./debs/com.lg.tsum1_0.1_iphoneos-arm.deb
+Size: 5154
+MD5sum: 63c31af6221fea6947a8a0a0e323964d
+SHA1: 4545055197609599fafce8a4db7bfbab3e4997f2
+SHA256: 330e8dd447fe531e90e03b23797580e4fa1127772a5bb710c6950e2b55716cf8
+SHA512: f197cb187153d5a1b8bdab2630d583cb066fa1c03d308d3eea049ea6af9ac7e042e628184ec495b21922e62a050a5ded902fd95902c1f413d6c48f13de2f98d4
 Description:
-Name: iosaloe
+Name: LINELogin
 Author:
 
 Package: com.lg.tsum
@@ -23,14 +23,15 @@ Maintainer: System Administrator
 Installed-Size: 428
 Depends: mobilesubstrate
 Filename: ./debs/com.lg.tsum_1.90.3_iphoneos-arm.deb
-Size: 203260
-MD5sum: ccd798bd4179b71b43355ff88687a2a2
-SHA1: caf4818de21ad053b1758a9473b942f55768bbc9
-SHA256: 0cfd51c4d174c2e59d157737d688ba8877fee6ad792254c35f8e8a0fe6b5f9e5
-SHA512: e01a3bf989c4cbe8f41208f3161352d4151be0e7df3e4e67543576ea877fa9cbb645819bd5768a8d1dca8f2257c5c4e1de375e42fbdb42775da8c573bebebbee
+Size: 205140
+MD5sum: 05798cec803f9344fd88639617b3362f
+SHA1: e3a2d3a865d9388e76dc13358a9d74cd34867c66
+SHA256: 88be24141fc4f782e58eb77bc58fa28e432d415964934d2a1d6358f3998ce3dc
+SHA512: 18fa8f888833c945ea063ab8bddf6ead9308010e202a7f349d84e462a856107be8f5d40329fb7f8f40e90978a7a25898f520289e4e18865bad80af7fdb130103
 Homepage:
 Description:
 Name: TsumTsum
 Author: System Administrator
+Icon: file:////Library/icon/AppIcon60x60@2x.png
 Depiction: https://ios41oe.github.io/41oe/index.html
 
